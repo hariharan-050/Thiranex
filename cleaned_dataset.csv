@@ -1,0 +1,275 @@
+order_id,date,category,region,quantity,unit_price,discount_pct,payment_method,customer_age,rating,month,month_name,revenue
+ORD1000,2024-01-01,Electronics,North,7.0,135.54,15,Debit Card,26.0,5.0,1,Jan,806.46
+ORD1001,2024-01-02,Electronics,North,15.0,309.64,5,Debit Card,27.0,5.0,1,Jan,4412.37
+ORD1002,2024-01-03,Food & Beverage,West,11.0,49.98,10,Cash,69.0,4.0,1,Jan,494.8
+ORD1003,2024-01-04,Clothing,East,8.0,12.54,0,Credit Card,43.0,5.0,1,Jan,100.32
+ORD1004,2024-01-05,Clothing,East,7.0,317.67,20,Cash,58.0,5.0,1,Jan,1778.95
+ORD1005,2024-01-06,Clothing,South,19.0,737.5575,20,Credit Card,52.0,4.0,1,Jan,11210.87
+ORD1006,2024-01-07,Electronics,East,11.0,44.76,15,UPI,69.0,4.0,1,Jan,418.51
+ORD1007,2024-01-08,Sports,South,11.0,204.42,5,Credit Card,42.0,2.0,1,Jan,2136.19
+ORD1008,2024-01-09,Electronics,East,4.0,34.88,0,Credit Card,43.0,4.0,1,Jan,139.52
+ORD1009,2024-01-10,Sports,West,8.0,444.44,5,UPI,28.0,1.0,1,Jan,3377.74
+ORD1010,2024-01-11,Home & Garden,South,3.0,23.53,0,Debit Card,55.0,4.0,1,Jan,70.59
+ORD1011,2024-01-12,Electronics,East,2.0,293.64,15,UPI,19.0,5.0,1,Jan,499.19
+ORD1012,2024-01-13,Electronics,West,31.5,224.85,15,Credit Card,24.0,4.0,1,Jan,6020.36
+ORD1013,2024-01-14,Electronics,East,6.0,339.29,20,UPI,35.0,4.0,1,Jan,1628.59
+ORD1014,2024-01-15,Clothing,North,2.0,170.79,5,Credit Card,44.0,3.0,1,Jan,324.5
+ORD1015,2024-01-16,Clothing,North,1.0,85.97,20,Debit Card,51.0,2.0,1,Jan,68.78
+ORD1016,2024-01-17,Sports,West,12.0,491.1,5,Debit Card,45.0,5.0,1,Jan,5598.54
+ORD1017,2024-01-18,Sports,North,12.0,421.08,20,Credit Card,34.0,3.0,1,Jan,4042.37
+ORD1018,2024-01-19,Electronics,North,17.0,431.6,10,Debit Card,60.0,2.0,1,Jan,6603.48
+ORD1019,2024-01-20,Sports,South,10.0,132.62,10,UPI,61.0,4.0,1,Jan,1193.58
+ORD1021,2024-01-22,Sports,South,15.0,158.6,10,Cash,41.0,5.0,1,Jan,2141.1
+ORD1022,2024-01-23,Home & Garden,East,15.0,273.17,0,Debit Card,42.0,2.0,1,Jan,4097.55
+ORD1023,2024-01-24,Clothing,North,19.0,170.06,10,Cash,24.0,4.0,1,Jan,2908.03
+ORD1024,2024-01-25,Home & Garden,South,12.0,415.66,15,UPI,69.0,4.0,1,Jan,4239.73
+ORD1025,2024-01-26,Sports,East,3.0,143.06,15,Debit Card,23.0,4.0,1,Jan,364.8
+ORD1027,2024-01-28,Electronics,South,19.0,234.06,10,Debit Card,50.0,4.0,1,Jan,4002.43
+ORD1028,2024-01-29,Clothing,West,7.0,422.59,10,UPI,45.0,4.0,1,Jan,2662.32
+ORD1029,2024-01-30,Home & Garden,East,9.0,105.25,10,UPI,46.0,4.0,1,Jan,852.52
+ORD1030,2024-01-31,Food & Beverage,North,7.0,211.56,20,Cash,60.0,5.0,1,Jan,1184.74
+ORD1031,2024-02-01,Food & Beverage,East,18.0,352.76,5,Credit Card,39.0,4.0,2,Feb,6032.2
+ORD1032,2024-02-02,Clothing,North,4.0,77.79,20,UPI,43.0,4.0,2,Feb,248.93
+ORD1033,2024-02-03,Clothing,South,14.0,75.05,5,Debit Card,45.0,4.0,2,Feb,998.16
+ORD1034,2024-02-04,Food & Beverage,East,18.0,485.07,10,Cash,67.0,4.0,2,Feb,7858.13
+ORD1036,2024-02-06,Electronics,North,2.0,30.12,20,Debit Card,66.0,4.0,2,Feb,48.19
+ORD1037,2024-02-07,Home & Garden,South,15.0,205.42,20,UPI,24.0,4.0,2,Feb,2465.04
+ORD1038,2024-02-08,Electronics,East,7.0,222.43,5,Credit Card,34.0,5.0,2,Feb,1479.16
+ORD1039,2024-02-09,Food & Beverage,East,12.0,374.58,15,Debit Card,37.0,4.0,2,Feb,3820.72
+ORD1040,2024-02-10,Food & Beverage,South,8.0,132.92,5,UPI,58.0,4.0,2,Feb,1010.19
+ORD1041,2024-02-11,Sports,East,15.0,100.32,20,Cash,66.0,5.0,2,Feb,1203.84
+ORD1042,2024-02-12,Food & Beverage,South,3.0,49.63,20,Debit Card,37.0,4.0,2,Feb,119.11
+ORD1043,2024-02-13,Electronics,East,14.0,219.87,0,Cash,39.0,4.0,2,Feb,3078.18
+ORD1044,2024-02-14,Home & Garden,West,17.0,347.36,20,UPI,45.0,5.0,2,Feb,4724.1
+ORD1045,2024-02-15,Sports,East,4.0,38.51,0,UPI,57.0,1.0,2,Feb,154.04
+ORD1046,2024-02-16,Electronics,North,18.0,458.45,15,UPI,66.0,3.0,2,Feb,7014.28
+ORD1047,2024-02-17,Home & Garden,North,8.0,226.75,5,UPI,24.0,4.0,2,Feb,1723.3
+ORD1048,2024-02-18,Electronics,West,4.0,127.5,5,UPI,18.0,5.0,2,Feb,484.5
+ORD1049,2024-02-19,Sports,East,2.0,56.0,0,Credit Card,49.0,2.0,2,Feb,112.0
+ORD1051,2024-02-21,Sports,North,10.0,467.96,20,Credit Card,47.0,2.0,2,Feb,3743.68
+ORD1052,2024-02-22,Food & Beverage,East,4.0,322.75,10,Cash,45.0,2.0,2,Feb,1161.9
+ORD1053,2024-02-23,Sports,South,18.0,263.18,0,Debit Card,68.0,4.0,2,Feb,4737.24
+ORD1054,2024-02-24,Clothing,East,9.0,331.98,5,Debit Card,36.0,4.0,2,Feb,2838.43
+ORD1055,2024-02-25,Electronics,South,2.0,223.48,0,Cash,49.0,4.0,2,Feb,446.96
+ORD1056,2024-02-26,Electronics,West,10.0,367.72,0,Debit Card,47.0,3.0,2,Feb,3677.2
+ORD1057,2024-02-27,Clothing,West,4.0,33.38,10,Debit Card,46.0,4.0,2,Feb,120.17
+ORD1058,2024-02-28,Food & Beverage,North,14.0,287.36,20,Debit Card,45.0,2.0,2,Feb,3218.43
+ORD1059,2024-02-29,Electronics,North,16.0,87.74,0,Credit Card,62.0,3.0,2,Feb,1403.84
+ORD1060,2024-03-01,Clothing,North,15.0,68.88,5,Credit Card,46.0,4.0,3,Mar,981.54
+ORD1061,2024-03-02,Electronics,South,8.0,177.52,15,UPI,47.0,5.0,3,Mar,1207.14
+ORD1062,2024-03-03,Home & Garden,North,14.0,54.98,0,Cash,33.0,1.0,3,Mar,769.72
+ORD1063,2024-03-04,Food & Beverage,East,8.0,56.14,0,Debit Card,57.0,4.0,3,Mar,449.12
+ORD1064,2024-03-05,Home & Garden,South,16.0,162.59,10,Cash,36.0,3.0,3,Mar,2341.3
+ORD1065,2024-03-06,Food & Beverage,West,13.0,489.96,20,UPI,35.0,5.0,3,Mar,5095.58
+ORD1067,2024-03-08,Food & Beverage,North,15.0,18.41,5,Debit Card,31.0,4.0,3,Mar,262.34
+ORD1068,2024-03-09,Food & Beverage,East,13.0,384.05,15,UPI,68.0,3.0,3,Mar,4243.75
+ORD1069,2024-03-10,Clothing,East,9.0,405.39,5,Debit Card,64.0,5.0,3,Mar,3466.08
+ORD1071,2024-03-12,Electronics,East,13.0,237.69,5,UPI,19.0,2.0,3,Mar,2935.47
+ORD1072,2024-03-13,Sports,South,1.0,328.39,10,Debit Card,45.0,4.0,3,Mar,295.55
+ORD1073,2024-03-14,Clothing,South,7.0,33.55,10,UPI,66.0,2.0,3,Mar,211.36
+ORD1074,2024-03-15,Sports,North,9.0,475.08,10,UPI,67.0,5.0,3,Mar,3848.15
+ORD1075,2024-03-16,Clothing,East,1.0,444.47,10,UPI,47.0,5.0,3,Mar,400.02
+ORD1076,2024-03-17,Clothing,West,12.0,137.84,15,Cash,55.0,3.0,3,Mar,1405.97
+ORD1077,2024-03-18,Home & Garden,South,8.0,17.5,20,Credit Card,68.0,4.0,3,Mar,112.0
+ORD1078,2024-03-19,Home & Garden,South,11.0,467.38,5,Cash,21.0,5.0,3,Mar,4884.12
+ORD1079,2024-03-20,Food & Beverage,South,19.0,255.51,5,UPI,18.0,5.0,3,Mar,4611.96
+ORD1081,2024-03-22,Clothing,West,8.0,345.14,10,Cash,46.0,5.0,3,Mar,2485.01
+ORD1082,2024-03-23,Food & Beverage,North,3.0,311.77,0,Cash,56.0,5.0,3,Mar,935.31
+ORD1083,2024-03-24,Electronics,South,3.0,472.51,20,Cash,20.0,5.0,3,Mar,1134.02
+ORD1084,2024-03-25,Clothing,East,1.0,472.68,15,Debit Card,49.0,2.0,3,Mar,401.78
+ORD1085,2024-03-26,Electronics,West,5.0,434.93,5,UPI,27.0,4.0,3,Mar,2065.92
+ORD1086,2024-03-27,Food & Beverage,South,10.0,321.84,0,UPI,27.0,5.0,3,Mar,3218.4
+ORD1088,2024-03-29,Food & Beverage,South,9.0,341.81,5,Cash,63.0,5.0,3,Mar,2922.48
+ORD1089,2024-03-30,Electronics,North,9.0,290.95,15,UPI,51.0,2.0,3,Mar,2225.77
+ORD1090,2024-03-31,Clothing,West,9.0,72.97,0,Cash,50.0,1.0,3,Mar,656.73
+ORD1091,2024-04-01,Sports,North,8.0,407.49,0,UPI,40.0,4.0,4,Apr,3259.92
+ORD1092,2024-04-02,Food & Beverage,West,12.0,412.11,20,Cash,45.0,1.0,4,Apr,3956.26
+ORD1093,2024-04-03,Clothing,South,2.0,316.71,15,UPI,45.0,5.0,4,Apr,538.41
+ORD1094,2024-04-04,Home & Garden,South,1.0,412.01,0,Credit Card,67.0,5.0,4,Apr,412.01
+ORD1095,2024-04-05,Home & Garden,West,16.0,329.23,15,Cash,45.0,5.0,4,Apr,4477.53
+ORD1096,2024-04-06,Home & Garden,East,5.0,111.28,5,UPI,46.0,4.0,4,Apr,528.58
+ORD1097,2024-04-07,Clothing,East,3.0,144.24,10,Credit Card,25.0,3.0,4,Apr,389.45
+ORD1098,2024-04-08,Food & Beverage,South,12.0,115.15,0,Credit Card,18.0,4.0,4,Apr,1381.8
+ORD1099,2024-04-09,Clothing,South,8.0,194.86,20,UPI,20.0,4.0,4,Apr,1247.1
+ORD1100,2024-04-10,Clothing,North,3.0,29.09,5,Cash,45.0,4.0,4,Apr,82.91
+ORD1101,2024-04-11,Sports,South,1.0,312.94,15,Debit Card,40.0,3.0,4,Apr,266.0
+ORD1104,2024-04-14,Sports,East,15.0,198.84,15,UPI,54.0,5.0,4,Apr,2535.21
+ORD1105,2024-04-15,Home & Garden,North,14.0,343.99,10,Debit Card,20.0,5.0,4,Apr,4334.27
+ORD1106,2024-04-16,Sports,East,3.0,176.91,5,Debit Card,68.0,4.0,4,Apr,504.19
+ORD1107,2024-04-17,Home & Garden,East,1.0,137.74,0,Debit Card,50.0,4.0,4,Apr,137.74
+ORD1108,2024-04-18,Food & Beverage,West,5.0,253.06,20,UPI,45.0,5.0,4,Apr,1012.24
+ORD1110,2024-04-20,Clothing,North,7.0,180.68,5,Credit Card,25.0,5.0,4,Apr,1201.52
+ORD1111,2024-04-21,Sports,North,9.0,468.96,5,UPI,51.0,5.0,4,Apr,4009.61
+ORD1112,2024-04-22,Home & Garden,East,15.0,29.2,10,Debit Card,52.0,4.0,4,Apr,394.2
+ORD1113,2024-04-23,Electronics,South,15.0,214.79,10,Credit Card,49.0,4.0,4,Apr,2899.66
+ORD1114,2024-04-24,Electronics,East,10.0,484.11,20,Credit Card,41.0,3.0,4,Apr,3872.88
+ORD1115,2024-04-25,Electronics,North,13.0,278.51,20,Debit Card,31.0,4.0,4,Apr,2896.5
+ORD1116,2024-04-26,Clothing,North,19.0,217.5,0,Debit Card,49.0,1.0,4,Apr,4132.5
+ORD1117,2024-04-27,Clothing,West,7.0,288.57,0,Credit Card,63.0,5.0,4,Apr,2019.99
+ORD1118,2024-04-28,Home & Garden,East,17.0,292.2,20,Credit Card,60.0,1.0,4,Apr,3973.92
+ORD1119,2024-04-29,Sports,East,4.0,368.51,20,Cash,33.0,3.0,4,Apr,1179.23
+ORD1120,2024-04-30,Electronics,West,5.0,72.57,15,Cash,21.0,5.0,4,Apr,308.42
+ORD1121,2024-05-01,Home & Garden,North,7.0,132.51,10,UPI,69.0,5.0,5,May,834.81
+ORD1122,2024-05-02,Home & Garden,West,9.0,294.47,0,Credit Card,54.0,3.0,5,May,2650.23
+ORD1123,2024-05-03,Sports,South,15.0,434.89,10,Cash,38.0,3.0,5,May,5871.02
+ORD1124,2024-05-04,Home & Garden,East,11.0,285.31,10,Credit Card,31.0,1.0,5,May,2824.57
+ORD1125,2024-05-05,Sports,North,4.0,126.91,20,Debit Card,48.0,4.0,5,May,406.11
+ORD1126,2024-05-06,Food & Beverage,West,13.0,343.12,15,Cash,65.0,1.0,5,May,3791.48
+ORD1127,2024-05-07,Sports,North,7.0,372.56,5,Debit Card,35.0,4.0,5,May,2477.52
+ORD1128,2024-05-08,Electronics,South,19.0,126.74,15,Debit Card,24.0,5.0,5,May,2046.85
+ORD1129,2024-05-09,Electronics,East,2.0,195.09,15,Debit Card,27.0,2.0,5,May,331.65
+ORD1130,2024-05-10,Sports,West,10.0,271.82,10,UPI,24.0,5.0,5,May,2446.38
+ORD1131,2024-05-11,Food & Beverage,North,13.0,253.31,15,Debit Card,50.0,5.0,5,May,2799.08
+ORD1132,2024-05-12,Food & Beverage,East,6.0,200.91,0,UPI,40.0,2.0,5,May,1205.46
+ORD1133,2024-05-13,Electronics,East,12.0,155.84,10,Credit Card,38.0,5.0,5,May,1683.07
+ORD1134,2024-05-14,Food & Beverage,North,12.0,58.99,0,Credit Card,36.0,4.0,5,May,707.88
+ORD1135,2024-05-15,Home & Garden,East,11.0,36.21,5,Cash,65.0,5.0,5,May,378.39
+ORD1136,2024-05-16,Clothing,East,7.0,479.69,10,Cash,36.0,4.0,5,May,3022.05
+ORD1137,2024-05-17,Home & Garden,West,1.0,425.1,5,UPI,53.0,4.0,5,May,403.84
+ORD1138,2024-05-18,Electronics,East,1.0,183.9,10,Credit Card,46.0,4.0,5,May,165.51
+ORD1140,2024-05-20,Sports,East,9.0,341.62,15,Cash,19.0,5.0,5,May,2613.39
+ORD1141,2024-05-21,Clothing,South,3.0,246.44,20,Cash,18.0,4.0,5,May,591.46
+ORD1142,2024-05-22,Sports,South,7.0,251.58,5,Credit Card,64.0,5.0,5,May,1673.01
+ORD1143,2024-05-23,Electronics,West,6.0,50.81,15,Cash,22.0,3.0,5,May,259.13
+ORD1144,2024-05-24,Food & Beverage,West,8.0,54.94,10,Credit Card,37.0,3.0,5,May,395.57
+ORD1146,2024-05-26,Sports,East,5.0,281.31,0,Debit Card,59.0,3.0,5,May,1406.55
+ORD1147,2024-05-27,Clothing,West,1.0,114.24,15,Debit Card,19.0,3.0,5,May,97.1
+ORD1148,2024-05-28,Clothing,North,19.0,473.64,0,UPI,20.0,5.0,5,May,8999.16
+ORD1149,2024-05-29,Food & Beverage,East,10.0,392.84,15,Credit Card,40.0,2.0,5,May,3339.14
+ORD1150,2024-05-30,Clothing,East,12.0,65.6,0,Cash,29.0,4.0,5,May,787.2
+ORD1151,2024-05-31,Sports,South,15.0,466.16,5,UPI,37.0,3.0,5,May,6642.78
+ORD1152,2024-06-01,Sports,West,9.0,487.38,20,UPI,22.0,5.0,6,Jun,3509.14
+ORD1153,2024-06-02,Electronics,East,17.0,498.01,10,Debit Card,54.0,5.0,6,Jun,7619.55
+ORD1155,2024-06-04,Food & Beverage,West,12.0,371.15,20,Cash,47.0,5.0,6,Jun,3563.04
+ORD1156,2024-06-05,Home & Garden,West,7.0,277.5,10,UPI,26.0,1.0,6,Jun,1748.25
+ORD1157,2024-06-06,Electronics,South,2.0,355.86,10,Cash,51.0,5.0,6,Jun,640.55
+ORD1158,2024-06-07,Electronics,West,3.0,484.64,0,Debit Card,61.0,3.0,6,Jun,1453.92
+ORD1159,2024-06-08,Food & Beverage,South,17.0,347.13,5,Credit Card,52.0,5.0,6,Jun,5606.15
+ORD1160,2024-06-09,Food & Beverage,North,5.0,420.11,5,Cash,69.0,1.0,6,Jun,1995.52
+ORD1161,2024-06-10,Clothing,East,17.0,434.77,20,Cash,39.0,4.0,6,Jun,5912.87
+ORD1162,2024-06-11,Electronics,East,17.0,420.86,5,UPI,61.0,5.0,6,Jun,6796.89
+ORD1163,2024-06-12,Clothing,North,17.0,218.78,15,Cash,41.0,3.0,6,Jun,3161.37
+ORD1164,2024-06-13,Sports,South,9.0,119.06,5,Credit Card,34.0,3.0,6,Jun,1017.96
+ORD1165,2024-06-14,Electronics,East,2.0,204.36,20,Credit Card,27.0,2.0,6,Jun,326.98
+ORD1166,2024-06-15,Electronics,South,5.0,447.03,5,Cash,47.0,3.0,6,Jun,2123.39
+ORD1167,2024-06-16,Home & Garden,South,9.0,81.84,15,UPI,63.0,4.0,6,Jun,626.08
+ORD1168,2024-06-17,Electronics,South,1.0,261.53,0,UPI,40.0,2.0,6,Jun,261.53
+ORD1169,2024-06-18,Sports,North,19.0,124.28,20,Debit Card,49.0,4.0,6,Jun,1889.06
+ORD1170,2024-06-19,Clothing,North,2.0,294.84,0,Credit Card,34.0,1.0,6,Jun,589.68
+ORD1171,2024-06-20,Clothing,South,12.0,432.94,0,Debit Card,67.0,5.0,6,Jun,5195.28
+ORD1172,2024-06-21,Home & Garden,West,6.0,441.38,0,UPI,68.0,2.0,6,Jun,2648.28
+ORD1173,2024-06-22,Sports,North,4.0,125.98,10,Debit Card,34.0,3.0,6,Jun,453.53
+ORD1174,2024-06-23,Clothing,West,11.0,454.77,10,UPI,31.0,1.0,6,Jun,4502.22
+ORD1175,2024-06-24,Food & Beverage,West,9.0,300.03,0,Debit Card,26.0,4.0,6,Jun,2700.27
+ORD1176,2024-06-25,Sports,South,6.0,181.61,20,Debit Card,57.0,5.0,6,Jun,871.73
+ORD1177,2024-06-26,Sports,West,5.0,357.01,15,Credit Card,19.0,4.0,6,Jun,1517.29
+ORD1178,2024-06-27,Home & Garden,West,2.0,246.02,15,Credit Card,62.0,3.0,6,Jun,418.23
+ORD1179,2024-06-28,Clothing,West,6.0,195.21,5,Debit Card,42.0,5.0,6,Jun,1112.7
+ORD1180,2024-06-29,Sports,South,11.0,355.49,20,UPI,56.0,5.0,6,Jun,3128.31
+ORD1181,2024-06-30,Clothing,South,16.0,131.87,10,UPI,26.0,3.0,6,Jun,1898.93
+ORD1182,2024-07-01,Food & Beverage,North,16.0,171.82,0,Credit Card,39.0,5.0,7,Jul,2749.12
+ORD1183,2024-07-02,Home & Garden,North,1.0,222.88,5,Credit Card,60.0,5.0,7,Jul,211.74
+ORD1184,2024-07-03,Food & Beverage,West,9.0,134.3,15,Cash,63.0,3.0,7,Jul,1027.4
+ORD1185,2024-07-04,Home & Garden,South,9.0,208.55,10,Credit Card,21.0,5.0,7,Jul,1689.26
+ORD1186,2024-07-05,Sports,South,16.0,290.02,10,UPI,43.0,5.0,7,Jul,4176.29
+ORD1187,2024-07-06,Home & Garden,West,3.0,373.08,0,Credit Card,46.0,4.0,7,Jul,1119.24
+ORD1188,2024-07-07,Electronics,North,4.0,385.93,15,Cash,62.0,2.0,7,Jul,1312.16
+ORD1189,2024-07-08,Clothing,South,19.0,413.17,20,Debit Card,51.0,2.0,7,Jul,6280.18
+ORD1190,2024-07-09,Clothing,North,3.0,374.66,10,Debit Card,40.0,5.0,7,Jul,1011.58
+ORD1191,2024-07-10,Electronics,West,19.0,343.71,0,UPI,54.0,5.0,7,Jul,6530.49
+ORD1192,2024-07-11,Food & Beverage,South,7.0,126.38,20,Cash,28.0,4.0,7,Jul,707.73
+ORD1193,2024-07-12,Electronics,West,9.0,206.11,15,Debit Card,23.0,4.0,7,Jul,1576.74
+ORD1196,2024-07-15,Clothing,West,7.0,268.9,20,Debit Card,59.0,4.0,7,Jul,1505.84
+ORD1197,2024-07-16,Sports,West,18.0,223.8,20,UPI,53.0,2.0,7,Jul,3222.72
+ORD1198,2024-07-17,Clothing,South,8.0,403.03,10,Debit Card,58.0,5.0,7,Jul,2901.82
+ORD1199,2024-07-18,Electronics,West,1.0,489.17,10,UPI,55.0,4.0,7,Jul,440.25
+ORD1200,2024-07-19,Electronics,West,11.0,282.44,5,UPI,51.0,5.0,7,Jul,2951.5
+ORD1201,2024-07-20,Electronics,East,9.0,168.12,15,Credit Card,34.0,3.0,7,Jul,1286.12
+ORD1202,2024-07-21,Clothing,South,10.0,31.27,0,Cash,54.0,1.0,7,Jul,312.7
+ORD1203,2024-07-22,Electronics,East,3.0,463.08,20,UPI,42.0,3.0,7,Jul,1111.39
+ORD1204,2024-07-23,Electronics,West,7.0,460.37,5,Debit Card,55.0,4.0,7,Jul,3061.46
+ORD1205,2024-07-24,Food & Beverage,South,16.0,133.97,0,Debit Card,29.0,5.0,7,Jul,2143.52
+ORD1206,2024-07-25,Electronics,East,16.0,350.75,5,UPI,40.0,2.0,7,Jul,5331.4
+ORD1207,2024-07-26,Sports,West,17.0,46.96,10,Debit Card,59.0,5.0,7,Jul,718.49
+ORD1208,2024-07-27,Clothing,North,2.0,91.45,20,Credit Card,39.0,4.0,7,Jul,146.32
+ORD1209,2024-07-28,Food & Beverage,East,1.0,116.24,0,Debit Card,38.0,5.0,7,Jul,116.24
+ORD1210,2024-07-29,Home & Garden,South,16.0,154.3,0,Credit Card,44.0,3.0,7,Jul,2468.8
+ORD1211,2024-07-30,Clothing,East,12.0,497.96,0,UPI,48.0,5.0,7,Jul,5975.52
+ORD1212,2024-07-31,Sports,East,5.0,351.49,0,UPI,23.0,5.0,7,Jul,1757.45
+ORD1213,2024-08-01,Clothing,East,5.0,198.26,0,UPI,44.0,3.0,8,Aug,991.3
+ORD1214,2024-08-02,Sports,North,9.0,371.18,5,Credit Card,57.0,2.0,8,Aug,3173.59
+ORD1215,2024-08-03,Sports,South,9.0,458.47,20,Debit Card,51.0,5.0,8,Aug,3300.98
+ORD1216,2024-08-04,Home & Garden,South,3.0,479.76,10,Credit Card,29.0,5.0,8,Aug,1295.35
+ORD1217,2024-08-05,Clothing,South,19.0,38.35,10,Debit Card,62.0,1.0,8,Aug,655.78
+ORD1218,2024-08-06,Home & Garden,West,16.0,203.32,10,Debit Card,24.0,5.0,8,Aug,2927.81
+ORD1219,2024-08-07,Home & Garden,South,16.0,62.31,10,Credit Card,27.0,5.0,8,Aug,897.26
+ORD1220,2024-08-08,Clothing,South,3.0,174.47,5,Cash,62.0,5.0,8,Aug,497.24
+ORD1221,2024-08-09,Electronics,North,1.0,93.14,15,UPI,34.0,5.0,8,Aug,79.17
+ORD1222,2024-08-10,Electronics,West,11.0,326.96,20,Debit Card,43.0,5.0,8,Aug,2877.25
+ORD1224,2024-08-12,Food & Beverage,East,8.0,122.4,15,Credit Card,45.0,3.0,8,Aug,832.32
+ORD1225,2024-08-13,Home & Garden,West,4.0,140.31,10,Cash,63.0,3.0,8,Aug,505.12
+ORD1226,2024-08-14,Home & Garden,West,6.0,186.57,15,UPI,19.0,5.0,8,Aug,951.51
+ORD1227,2024-08-15,Home & Garden,North,8.0,137.38,20,Cash,60.0,5.0,8,Aug,879.23
+ORD1230,2024-08-18,Electronics,West,3.0,147.08,20,Debit Card,53.0,5.0,8,Aug,352.99
+ORD1233,2024-08-21,Electronics,West,18.0,142.77,0,Cash,46.0,4.0,8,Aug,2569.86
+ORD1234,2024-08-22,Clothing,North,2.0,75.26,15,Cash,38.0,3.0,8,Aug,127.94
+ORD1235,2024-08-23,Clothing,East,3.0,47.34,5,UPI,28.0,3.0,8,Aug,134.92
+ORD1236,2024-08-24,Clothing,East,16.0,470.86,5,Credit Card,57.0,2.0,8,Aug,7157.07
+ORD1237,2024-08-25,Sports,West,9.0,214.15,20,Debit Card,28.0,3.0,8,Aug,1541.88
+ORD1238,2024-08-26,Home & Garden,West,4.0,294.77,10,Credit Card,53.0,4.0,8,Aug,1061.17
+ORD1239,2024-08-27,Clothing,South,1.0,460.4,5,Cash,66.0,4.0,8,Aug,437.38
+ORD1240,2024-08-28,Home & Garden,West,4.0,50.55,0,Credit Card,56.0,1.0,8,Aug,202.2
+ORD1241,2024-08-29,Clothing,South,1.0,439.56,20,Debit Card,57.0,4.0,8,Aug,351.65
+ORD1242,2024-08-30,Food & Beverage,East,14.0,280.28,15,Credit Card,45.0,3.0,8,Aug,3335.33
+ORD1243,2024-08-31,Home & Garden,West,16.0,90.77,20,Cash,51.0,5.0,8,Aug,1161.86
+ORD1244,2024-09-01,Clothing,West,8.0,211.52,15,Debit Card,64.0,5.0,9,Sep,1438.34
+ORD1245,2024-09-02,Electronics,North,7.0,391.03,20,UPI,41.0,3.0,9,Sep,2189.77
+ORD1246,2024-09-03,Home & Garden,West,3.0,245.38,20,UPI,39.0,4.0,9,Sep,588.91
+ORD1247,2024-09-04,Sports,East,17.0,492.79,20,Debit Card,22.0,1.0,9,Sep,6701.94
+ORD1248,2024-09-05,Electronics,West,1.0,194.6,15,Debit Card,45.0,4.0,9,Sep,165.41
+ORD1249,2024-09-06,Electronics,South,16.0,377.29,15,Debit Card,53.0,4.0,9,Sep,5131.14
+ORD1250,2024-09-07,Sports,West,9.0,202.56,20,Cash,64.0,3.0,9,Sep,1458.43
+ORD1251,2024-09-08,Electronics,South,19.0,416.29,5,Debit Card,37.0,4.0,9,Sep,7514.03
+ORD1252,2024-09-09,Electronics,North,14.0,288.85,10,Cash,36.0,3.0,9,Sep,3639.51
+ORD1253,2024-09-10,Clothing,West,6.0,41.12,10,Debit Card,52.0,3.0,9,Sep,222.05
+ORD1254,2024-09-11,Clothing,North,6.0,28.04,10,Cash,69.0,4.0,9,Sep,151.42
+ORD1255,2024-09-12,Home & Garden,North,13.0,75.59,15,Cash,60.0,3.0,9,Sep,835.27
+ORD1256,2024-09-13,Home & Garden,West,19.0,16.7,15,Credit Card,34.0,4.0,9,Sep,269.7
+ORD1257,2024-09-14,Home & Garden,South,8.0,46.93,5,UPI,62.0,4.0,9,Sep,356.67
+ORD1258,2024-09-15,Clothing,West,2.0,348.94,10,Debit Card,60.0,5.0,9,Sep,628.09
+ORD1260,2024-09-17,Electronics,North,15.0,377.46,20,UPI,26.0,4.0,9,Sep,4529.52
+ORD1261,2024-09-18,Clothing,East,1.0,457.45,15,Credit Card,43.0,4.0,9,Sep,388.83
+ORD1262,2024-09-19,Home & Garden,West,5.0,296.72,10,UPI,19.0,4.0,9,Sep,1335.24
+ORD1263,2024-09-20,Electronics,East,16.0,365.8,5,UPI,26.0,5.0,9,Sep,5560.16
+ORD1264,2024-09-21,Home & Garden,South,19.0,380.97,5,Debit Card,26.0,5.0,9,Sep,6876.51
+ORD1266,2024-09-23,Home & Garden,East,3.0,128.13,15,Debit Card,34.0,5.0,9,Sep,326.73
+ORD1267,2024-09-24,Food & Beverage,East,17.0,110.47,5,Debit Card,18.0,5.0,9,Sep,1784.09
+ORD1268,2024-09-25,Home & Garden,West,17.0,133.21,20,UPI,42.0,5.0,9,Sep,1811.66
+ORD1269,2024-09-26,Sports,East,12.0,144.62,5,UPI,45.0,5.0,9,Sep,1648.67
+ORD1270,2024-09-27,Home & Garden,West,14.0,111.54,0,Debit Card,57.0,5.0,9,Sep,1561.56
+ORD1271,2024-09-28,Clothing,East,6.0,440.33,0,Debit Card,45.0,2.0,9,Sep,2641.98
+ORD1272,2024-09-29,Clothing,North,3.0,380.93,15,UPI,42.0,2.0,9,Sep,971.37
+ORD1273,2024-09-30,Food & Beverage,West,9.0,32.98,10,Cash,56.0,4.0,9,Sep,267.14
+ORD1274,2024-10-01,Clothing,North,5.0,141.65,15,Cash,52.0,1.0,10,Oct,602.01
+ORD1275,2024-10-02,Electronics,North,17.0,20.87,15,Debit Card,20.0,4.0,10,Oct,301.57
+ORD1276,2024-10-03,Sports,East,14.0,254.1,15,Cash,67.0,4.0,10,Oct,3023.79
+ORD1278,2024-10-05,Electronics,North,1.0,417.37,20,Credit Card,61.0,5.0,10,Oct,333.9
+ORD1279,2024-10-06,Food & Beverage,North,1.0,160.81,20,UPI,61.0,5.0,10,Oct,128.65
+ORD1280,2024-10-07,Electronics,North,3.0,410.03,5,Debit Card,68.0,2.0,10,Oct,1168.59
+ORD1281,2024-10-08,Electronics,South,18.0,484.31,0,Debit Card,47.0,4.0,10,Oct,8717.58
+ORD1282,2024-10-09,Sports,South,10.0,53.32,15,Debit Card,55.0,5.0,10,Oct,453.22
+ORD1283,2024-10-10,Home & Garden,North,3.0,397.99,5,Cash,51.0,2.0,10,Oct,1134.27
+ORD1284,2024-10-11,Sports,South,8.0,299.08,0,Debit Card,29.0,5.0,10,Oct,2392.64
+ORD1285,2024-10-12,Sports,South,14.0,245.22,10,Credit Card,36.0,4.0,10,Oct,3089.77
+ORD1286,2024-10-13,Clothing,South,18.0,216.06,20,Cash,54.0,3.0,10,Oct,3111.26
+ORD1287,2024-10-14,Electronics,West,15.0,394.49,0,UPI,61.0,5.0,10,Oct,5917.35
+ORD1288,2024-10-15,Sports,North,2.0,323.29,10,Credit Card,66.0,3.0,10,Oct,581.92
+ORD1289,2024-10-16,Electronics,South,10.0,404.47,0,Debit Card,34.0,4.0,10,Oct,4044.7
+ORD1291,2024-10-18,Electronics,East,17.0,312.46,20,Debit Card,66.0,1.0,10,Oct,4249.46
+ORD1292,2024-10-19,Sports,East,8.0,490.43,5,Credit Card,64.0,4.0,10,Oct,3727.27
+ORD1293,2024-10-20,Electronics,South,1.0,307.96,15,Cash,29.0,5.0,10,Oct,261.77
+ORD1294,2024-10-21,Clothing,North,9.0,321.96,0,Debit Card,33.0,2.0,10,Oct,2897.64
+ORD1295,2024-10-22,Home & Garden,South,11.0,281.86,0,Cash,41.0,5.0,10,Oct,3100.46
+ORD1296,2024-10-23,Electronics,East,16.0,54.59,10,Credit Card,36.0,4.0,10,Oct,786.1
+ORD1298,2024-10-25,Clothing,North,10.0,278.25,0,UPI,48.0,4.0,10,Oct,2782.5
+ORD1299,2024-10-26,Sports,East,3.0,230.95,20,UPI,38.0,4.0,10,Oct,554.28
